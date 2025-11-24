@@ -1,10 +1,10 @@
 # Japanse
 
-メインメニューのフレームレートを30fps(1.7.x~1.12.2)または60fps(1.15.x~1.20.x)から120fpsに上げることで、メニュー画面の遅延を修正するMODです。 <br />
+メインメニューのフレームレートを30fps(1.7.x～1.12.2)または60fps(1.15.x～1.20.x)から120fpsに上げることで、メニュー画面の遅延を修正するMODです。 <br />
 
 # English
 
-This mod fixes the delay in the menu screen by increasing the frame rate of the main menu from 30fps(1.7.x~1.12.2) or 60fps(1.15.x~1.20.x) to 120 fps.
+This mod fixes the delay in the menu screen by increasing the frame rate of the main menu from 30fps(1.7.x～1.12.2) or 60fps(1.15.x～1.20.x) to 120 fps.
 
 ### ModLoader
 [LegacyFabric](https://legacyfabric.net/) or
