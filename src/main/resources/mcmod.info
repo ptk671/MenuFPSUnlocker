@@ -12,12 +12,12 @@
       "1.11.x",
       "1.12.x"
     ],
-    "url": "https://github.com/Ptkiuo/MenuFPSUnlocker",
+    "url": "https://modrinth.com/mod/menufpsunlocker/",
     "updateUrl": "",
     "authorList": ${mod_author},
-  "credits": "Ptki_uo",
+  "credits": "",
   "logoFile": "logo.png",
   "screenshots": [],
-  "dependencies": []
+  "dependencies": ["Mod to extend the frame rate of the main menu from 30 to 120"]
   }
 ]
