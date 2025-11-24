@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.ptk671.menufpsunlocker.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "minVersion": "0.8",
+  "client": [
+    "MinecraftClientMixin"
+  ],
+  "mixins": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

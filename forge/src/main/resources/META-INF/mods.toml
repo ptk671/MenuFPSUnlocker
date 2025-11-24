@@ -1,0 +1,29 @@
+modLoader = "javafml"
+loaderVersion = "[0,)"
+issueTrackerURL = "https://github.com/ptk671/MenuFPSUnlocker/issues"
+license = "CC0-1.0"
+
+[[mods]]
+modId = "menufpsunlocker"
+version = "${version}"
+displayName = "MenuFPSUnlocker"
+displayURL = "https://modrinth.com/mod/menufpsunlocker/"
+authors = "Ptki"
+description = '''
+Mod to extend the frame rate of the main menu from 60 to 120
+'''
+#logoFile = ""
+
+[[dependencies.menufpsunlocker]]
+modId = "forge"
+mandatory = true
+versionRange = "[36,)"
+ordering = "NONE"
+side = "CLIENT"
+
+[[dependencies.menufpsunlocker]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.18.2,1.20.2)"
+ordering = "NONE"
+side = "BOTH"

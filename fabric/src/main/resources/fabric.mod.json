@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "menufpsunlocker",
+  "version": "${version}",
+  "name": "MenuFPSUnlocker",
+  "description": "Mod to extend the frame rate of the main menu from 60 to 120",
+  "authors": [
+    "Ptki"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/menufpsunlocker",
+    "sources": "https://github.com/Ptk671/MenuFPSUnlocker"
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/menufpsunlocker/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.ptk671.menufpsunlocker.fabric.MenuFPSUnlockerFabric"
+    ]
+  },
+  "mixins": [
+    "menufpsunlocker.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": "*",
+    "minecraft": ["1.15.x","1.16.x","1.17.x","1.18.x","1.19.x","1.20.x"],
+    "java": ">=8"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
