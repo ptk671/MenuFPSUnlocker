@@ -4,7 +4,7 @@
 
 # English
 
-This mod fixes the delay in the menu screen by increasing the frame rate of the main menu from 30fps(1.7.x~1.12.2) or 60fps(1.15.x~1.20.x) to 120 fps.
+This mod fixes the delay in the menu screen by increasing the frame rate of the main menu from 30fps(1.7.x～1.12.2) or 60fps(1.15.x～1.20.x) to 120 fps.
 
 ### ModLoader
 [LegacyFabric](https://legacyfabric.net/) or
