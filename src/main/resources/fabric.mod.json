@@ -5,11 +5,11 @@
   "name": "MenuFPSUnlocker",
   "description": "Mod to extend the frame rate of the main menu from 30 to 120",
   "authors": [
-    "Ptki_uo"
+    "Ptki"
   ],
   "contact": {
-    "homepage": "https://github.com/Ptkiuo",
-    "sources": "https://github.com/Ptkiuo/MenuFPSUnlocker"
+    "homepage": "https://modrinth.com/mod/menufpsunlocker/",
+    "sources": "https://github.com/Ptk671/MenuFPSUnlocker"
   },
   "license": "CC0-1.0",
   "icon": "assets/mfpu/icon.png",
