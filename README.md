@@ -6,10 +6,10 @@
 
 This mod fixes the delay in the menu screen by increasing the frame rate of the main menu from 30fps(1.7.x～1.12.2) or 60fps(1.15.x～1.20.x) to 120 fps.
 
-##Modrinth
+## Modrinth
 https://modrinth.com/mod/menufpsunlocker/
 
-##CurseForge
+## CurseForge
 https://www.curseforge.com/minecraft/mc-mods/menufpsunlocker
 
 ### ModLoader
